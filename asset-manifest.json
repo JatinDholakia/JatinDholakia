@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.33db1250.css",
-    "main.js": "/static/js/main.9f6df992.js",
+    "main.css": "/static/css/main.07bc5735.css",
+    "main.js": "/static/js/main.59cb82bb.js",
     "static/media/jatin.jpg": "/static/media/jatin.7e089d4d63f79aa97142.jpg",
     "static/media/Jatin-Dholakia.pdf": "/static/media/Jatin-Dholakia.a5a5a5618801f74dfbac.pdf",
     "index.html": "/index.html",
-    "main.33db1250.css.map": "/static/css/main.33db1250.css.map",
-    "main.9f6df992.js.map": "/static/js/main.9f6df992.js.map"
+    "main.07bc5735.css.map": "/static/css/main.07bc5735.css.map",
+    "main.59cb82bb.js.map": "/static/js/main.59cb82bb.js.map"
   },
   "entrypoints": [
-    "static/css/main.33db1250.css",
-    "static/js/main.9f6df992.js"
+    "static/css/main.07bc5735.css",
+    "static/js/main.59cb82bb.js"
   ]
 }
